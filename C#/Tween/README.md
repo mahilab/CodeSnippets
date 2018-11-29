@@ -6,7 +6,7 @@ Evan Pezent
 
 **Description:**
 
-C# Implementation of common [easing/tweening functions](https://easings.net/). These are particularly useful for creating smooth animations and transitions in Unity Engine when used in conjunction with the built-in `Lerp` functions.
+C# implementation of common [easing/tweening functions](https://easings.net/). These are particularly useful for creating smooth animations and transitions in Unity Engine when used in conjunction with the built-in `Lerp` functions.
 
 **Usage:**
 
