@@ -10,7 +10,7 @@ t_max = 60;   % Duration
 [u,t] = schroeder(f_min,f_max,Fs,t_max);
 
 figure(1)
-plot(t,u)
+plot([t t(end) + t],[u u])
 xlabel('Time [s])')
 ylabel('Amplitude')
 
